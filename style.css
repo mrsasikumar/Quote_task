@@ -1,0 +1,8 @@
+.container-fluid{
+    width: 600px;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/5662849/pexels-photo-5662849.png?cs=srgb&dl=pexels-tima-miroshnichenko-5662849.jpg&fm=jpg");
+
+    background-size:cover;
+}
